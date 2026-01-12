@@ -1,0 +1,21 @@
+.banner{
+    width: 100%;
+    max-width: 100%;
+}
+ .banner img{
+ width: 100;
+     height: auto;
+     display: block;
+}
+.nabar  {
+    background-color: rgb(255, 172, 223);
+    padding: 12px;
+    display:flex
+}
+.navbar a{
+    color: antiquewhite;
+    text-decoration:rgb(255, 207, 245);
+}
+.navbar a:hover {
+    color: rgb(254, 225, 255);
+}
